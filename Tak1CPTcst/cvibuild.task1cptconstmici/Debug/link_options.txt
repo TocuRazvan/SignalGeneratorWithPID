@@ -1,0 +1,42 @@
+-nologo
+-out:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\task1cptconstmici.exe
+-arch:x86
+-timestamp
+-debug:2
+-project:d:\NILWCVI2012SP1\Tak1CPTconstantemici\task1cptconstmici.prj
+-res:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\linkersummary.txt
+-dlldeps:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\dlldependencies.txt
+-licensing:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\linkerlicensing.txt
+-browsedeps:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\moduledependencies.txt
+-stackreserve:1048576
+-stackcommit:4096
+-in:d:\NILWCVI2012SP1\Tak1CPTconstantemici\cvibuild.task1cptconstmici\Debug\bucla_PID.obj
+-more:d:\nilwcvi2012sp1\cvi2020\bin\msvc\cvistart.lib
+-more:d:\nilwcvi2012sp1\cvi2020\bin\msvc\cvi.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\advanlys.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\advapi32.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\bufferoverflowu.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\cvi_db.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cviauto.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cvidotnet.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cvinetstreams.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cvinetv.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cvintwrk.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\cvitdms.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\gdi32.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\gpib.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\ivi.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\kernel32.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\NIDAQmx.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\nisyscfg.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\nivxi.lib
+-more:d:\NILWCVI2012SP1\CVI2020\bin\msvc\omp.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\pid.lib
+-more:d:\NILWCVI2012SP1\CVI2020\toolslib\toolbox\msvc\toolbox.obj
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\user32.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\uuid.lib
+-more:d:\NILWCVI2012SP1\Shared\CVI\Bin\msvc\visa.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\winmm.lib
