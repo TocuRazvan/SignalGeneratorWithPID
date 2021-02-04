@@ -1,0 +1,226 @@
+[Workspace Header]
+Version = 2000
+Pathname = "/d/NILWCVI2012SP1/Task1CPT/proiect.cws"
+CVI Dir = "/d/nilwcvi2012sp1/cvi2020"
+CVI Shared Dir = "/D/NILWCVI2012SP1/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "proiect.prj"
+Drag Bar Left = 216
+Window Top = 31
+Window Left = 685
+Window Bottom = 1039
+Window Right = 1643
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 8
+Window Confinement Region Enabled = True
+MainColumnWidth = 199
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 2000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.c"
+File Type = "CSource"
+Disk Date = 3693371026
+In Projects = "1,"
+Source Window State = "1,97,97,97,16,27,16,0,3,0,0,0,0,0,0,0,16,0,97,27,401,749,1,0,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 3
+
+[File 0002]
+Path = "/d/NILWCVI2012SP1/Task1CPT/04_elemente_FEEDBACK.h"
+File Type = "Include"
+Disk Date = 3693371026
+In Projects = "1,"
+Source Window State = "1,40,40,40,0,8,0,0,3,0,0,0,0,0,0,0,0,0,40,8,401,602,1,0,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 2
+
+[File 0003]
+Path = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.uir"
+File Type = "User Interface Resource"
+Disk Date = 3693373259
+In Projects = "1,"
+Window Top = 126
+Window Left = 58
+Window Height = 401
+Window Width = 602
+Window Z-Order = 7
+
+[File 0004]
+Path = "/d/NILWCVI2012SP1/Task1CPT/00_Declaratii_Variabile_S.h"
+File Type = "Include"
+Disk Date = 3693284636
+In Projects = "1,"
+Source Window State = "1,17,18,18,0,16,16,0,3,0,0,0,0,0,0,0,0,0,17,0,401,602,1,0,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 8
+
+[File 0005]
+Path = "/d/NILWCVI2012SP1/Task1CPT/01_Functionare_A_M_S.h"
+File Type = "Include"
+Disk Date = 3693120229
+In Projects = "1,"
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,401,749,1,0,"
+Window Top = 219
+Window Left = 106
+Window Z-Order = 6
+
+[File 0006]
+Path = "/d/NILWCVI2012SP1/Task1CPT/02_Functii_Utilitare_S.h"
+File Type = "Include"
+Disk Date = 3693208673
+In Projects = "1,"
+Source Window State = "1,19,19,19,64,64,64,0,0,0,0,0,0,0,0,0,0,0,19,64,401,749,1,0,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 5
+
+[File 0007]
+Path = "/d/NILWCVI2012SP1/Task1CPT/03_Generare_Semnale_S.h"
+File Type = "Include"
+Disk Date = 3693120216
+In Projects = "1,"
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,401,749,1,0,"
+Window Top = 188
+Window Left = 90
+Window Z-Order = 1
+
+[File 0008]
+Path = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.h"
+File Type = "Include"
+Disk Date = 3693208673
+In Projects = "1,"
+Source Window State = "1,56,56,56,17,28,17,0,3,0,0,0,0,0,0,0,27,0,56,28,401,749,1,0,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 4
+
+[Tab Order]
+Tab 0001 = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.uir"
+Tab 0002 = "/d/NILWCVI2012SP1/Task1CPT/04_elemente_FEEDBACK.h"
+Tab 0003 = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.c"
+Tab 0004 = "/d/NILWCVI2012SP1/Task1CPT/02_Functii_Utilitare_S.h"
+Tab 0005 = "/d/NILWCVI2012SP1/Task1CPT/03_Generare_Semnale_S.h"
+Tab 0006 = "/d/NILWCVI2012SP1/Task1CPT/01_Functionare_A_M_S.h"
+Tab 0007 = "/d/NILWCVI2012SP1/Task1CPT/00_Declaratii_Variabile_S.h"
+Tab 0008 = "/d/NILWCVI2012SP1/Task1CPT/bucla_PID.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+

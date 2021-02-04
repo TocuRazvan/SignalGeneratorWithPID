@@ -1,0 +1,15 @@
+[WinMain]
+Class="Function"
+Prototype="int WinMain(struct HINSTANCE__ *hInstance, struct HINSTANCE__ *hPrevInstance, char *lpszCmdLine, int nCmdShow);"
+SourceLocation="d:\NILWCVI2012SP1\Task1CPT\bucla_PID.c:15:15"
+
+[start_aplicatie]
+Class="Function"
+Prototype="int start_aplicatie(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\NILWCVI2012SP1\Task1CPT\bucla_PID.c:31:17"
+
+[esantionare]
+Class="Function"
+Prototype="int esantionare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\NILWCVI2012SP1\Task1CPT\bucla_PID.c:98:17"
+
